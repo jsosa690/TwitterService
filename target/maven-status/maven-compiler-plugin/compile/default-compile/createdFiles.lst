@@ -1,0 +1,9 @@
+com\sproutsocial\homework\client\TwitterClient.class
+com\sproutsocial\homework\api\Saying.class
+com\sproutsocial\homework\HomeworkApplication.class
+com\sproutsocial\homework\HomeworkConfiguration.class
+com\sproutsocial\homework\resources\HelloResource.class
+com\sproutsocial\homework\resources\TwitterResource.class
+com\sproutsocial\homework\mapper\UserMapper.class
+com\sproutsocial\homework\dao\UserDao.class
+com\sproutsocial\homework\domain\User.class
