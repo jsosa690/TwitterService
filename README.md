@@ -1,0 +1,1 @@
+This is a really simple dropwizard project that lets a user view their timeline and post a tweet. the database is empty, but can have values added to authenticate. twitter_id is the users id, not the username

@@ -1,0 +1,16 @@
+twitterConsumerKey: Tm290c073GAE6tw6SdSJPQ9VS
+twitterConsumerSecret: gNIsQVTXXSvv1CkJ9ddjvuIiZ7pjC0TrfeBOJmqLdgmI0A3bkM
+
+database:
+  driverClass: org.sqlite.JDBC
+  url: jdbc:sqlite:sprout.db
+  properties:
+    charSet: UTF-8
+  maxWaitForConnection: 1s
+  validationQuery: "/* Homework Health Check */ SELECT 1"
+  validationQueryTimeout: 3s
+  minSize: 8
+  maxSize: 32
+  checkConnectionWhileIdle: false
+  evictionInterval: 10s
+  minIdleTime: 1 minute
